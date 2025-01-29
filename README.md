@@ -1,6 +1,9 @@
 # 💫 About Me:
 🌟 Welcome to My GitHub Profile! 🌟<br>👋 Hyy, I'm Aishwarya laxmi<br>🚀I passionate developer and data enthusiast who loves turning<br> ideas into reality with code. <br>💻 I'm currently learning Java, Web Development<br>🎯Let's Connect and code.
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
+<br><br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aishwarya-laxmi-70b86728a) 
