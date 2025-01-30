@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white">
   </p>
-# 📊 GitHub Stats:
+📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aishwaryalaxmi17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aishwaryalaxmi17&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryalaxmi17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
